@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-04-20 19:16+0000\n"
+"POT-Creation-Date: 2021-05-03 16:52+0000\n"
 "PO-Revision-Date: 2021-03-22 07:27+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language-Team: none\n"
@@ -645,7 +645,7 @@ msgid "%(title)s – Add-ons for Firefox Android (%(locale)s)"
 msgstr "%(title)s – Doplňky pro Firefox pro Android (%(locale)s)"
 
 #: src/amo/components/AuthenticateButton/index.js:92
-#: src/amo/components/Header/index.js:158
+#: src/amo/components/Header/index.js:159
 msgid "Log out"
 msgstr "Odhlásit se"
 
@@ -655,7 +655,7 @@ msgid "Register or log in"
 msgstr "Registrace nebo přihlášení"
 
 #: src/amo/components/AuthenticateButton/index.js:96
-#: src/amo/components/Header/index.js:153
+#: src/amo/components/Header/index.js:154
 msgid ""
 "This action is currently unavailable. Please reload the page in a moment."
 msgstr "Toto akce nyní není dostupná. Načtěte prosím za okamžik stránku znovu."
@@ -1160,96 +1160,96 @@ msgstr "O nás"
 msgid "Blog"
 msgstr "Blog"
 
-#: src/amo/components/Footer/index.js:87 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:87 src/amo/components/Header/index.js:218
 msgid "Extension Workshop"
 msgstr "Workshop tvorby rozšíření"
 
-#: src/amo/components/Footer/index.js:92 src/amo/components/Header/index.js:226
+#: src/amo/components/Footer/index.js:92 src/amo/components/Header/index.js:228
 msgid "Developer Hub"
 msgstr "Pro vývojáře"
 
-#: src/amo/components/GetFirefoxBanner/index.js:73
+#: src/amo/components/GetFirefoxBanner/index.js:79
 msgid ""
 "To use these add-ons, you'll need to %(linkStart)sdownload Firefox%(linkEnd)s"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:151
+#: src/amo/components/GetFirefoxButton/index.js:158
 msgid "Only with Firefox—Get Firefox Now"
 msgstr "Pouze ve Firefoxu – stáhněte si Firefox nyní"
 
-#: src/amo/components/GetFirefoxButton/index.js:155
+#: src/amo/components/GetFirefoxButton/index.js:162
 #, fuzzy
 msgid "Download Firefox and get the theme"
 msgstr "Stáhnout Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:156
+#: src/amo/components/GetFirefoxButton/index.js:163
 msgid "Download Firefox and get the extension"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:159
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:166
+#: src/amo/components/GetFirefoxButton/index.js:178
 msgid "Download Firefox"
 msgstr "Stáhnout Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:162
+#: src/amo/components/GetFirefoxButton/index.js:169
 #, fuzzy
 msgid "You'll need Firefox to use this theme"
 msgstr "Pro hodnocení tohoto motivu vzhledu se přihlaste"
 
-#: src/amo/components/GetFirefoxButton/index.js:163
+#: src/amo/components/GetFirefoxButton/index.js:170
 #, fuzzy
 msgid "You'll need Firefox to use this extension"
 msgstr "Pro hodnocení tohoto rozšíření se přihlaste"
 
-#: src/amo/components/Header/index.js:107
+#: src/amo/components/Header/index.js:100
+#: src/amo/pages/UserProfileEdit/index.js:567
+msgid "View My Profile"
+msgstr "Zobrazit můj profil"
+
+#: src/amo/components/Header/index.js:108
 #: src/amo/pages/UserProfileEdit/index.js:573
 msgid "Edit My Profile"
 msgstr "Upravit můj profil"
 
-#: src/amo/components/Header/index.js:111
+#: src/amo/components/Header/index.js:112
 msgid "Tools"
 msgstr "Nástroje"
 
-#: src/amo/components/Header/index.js:117
+#: src/amo/components/Header/index.js:118
 msgid "Submit a New Add-on"
 msgstr "Přidání nového doplňku"
 
-#: src/amo/components/Header/index.js:122
+#: src/amo/components/Header/index.js:123
 msgid "Submit a New Theme"
 msgstr "Přidání nového motivu vzhledu"
 
-#: src/amo/components/Header/index.js:131
+#: src/amo/components/Header/index.js:132
 msgid "Manage My Submissions"
 msgstr "Správa mých příspěvků"
 
-#: src/amo/components/Header/index.js:141
+#: src/amo/components/Header/index.js:142
 msgid "Reviewer Tools"
 msgstr "Nástroje kontrolora"
 
-#: src/amo/components/Header/index.js:194
+#: src/amo/components/Header/index.js:196
 msgid "Firefox Browser Add-ons"
 msgstr "Doplňky do prohlížeče Firefox"
 
-#: src/amo/components/Header/index.js:214
+#: src/amo/components/Header/index.js:216
 msgid "Learn how to create extensions and themes"
 msgstr "Naučte se vytvářet rozšíření a motivy vzhledu"
 
-#: src/amo/components/Header/index.js:224
+#: src/amo/components/Header/index.js:226
 msgid "Submit and manage extensions and themes"
 msgstr "Přidání a správa rozšíření a motivů vzhledu"
 
-#: src/amo/components/Header/index.js:85
+#: src/amo/components/Header/index.js:86
 msgid "My Account"
 msgstr "Můj účet"
 
-#: src/amo/components/Header/index.js:91
+#: src/amo/components/Header/index.js:92
 msgid "View My Collections"
 msgstr "Zobrazit mé sbírky"
-
-#: src/amo/components/Header/index.js:99
-#: src/amo/pages/UserProfileEdit/index.js:567
-msgid "View My Profile"
-msgstr "Zobrazit můj profil"
 
 #: src/amo/components/HeroRecommendation/index.js:180
 msgid "Get the extension"
@@ -1277,7 +1277,7 @@ msgstr ""
 "Firefox doporučuje jen rozšíření, která splňují naše standardy pro "
 "bezpečnost a výkon."
 
-#: src/amo/components/HomepageShelves/index.js:69
+#: src/amo/components/HomepageShelves/index.js:70
 #, fuzzy
 msgid "See more %(categoryName)s"
 msgstr "Vzhledy v kategorii %(categoryName)s"
@@ -1324,7 +1324,7 @@ msgstr "Spravujte své doplňky klepnutím na Doplňky v nabídce Firefoxu."
 msgid "OK"
 msgstr "OK"
 
-#: src/amo/components/InstallButtonWrapper/index.js:114
+#: src/amo/components/InstallButtonWrapper/index.js:115
 msgid "Download file"
 msgstr "Stáhnout soubor"
 

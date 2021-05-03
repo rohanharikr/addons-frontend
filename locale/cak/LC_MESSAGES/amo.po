@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-04-20 19:16+0000\n"
+"POT-Creation-Date: 2021-05-03 16:52+0000\n"
 "PO-Revision-Date: 2021-03-26 23:11+0000\n"
 "Last-Translator: Juan Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -670,7 +670,7 @@ msgid "%(title)s – Add-ons for Firefox Android (%(locale)s)"
 msgstr "%s – Kitz'aqat Firefox"
 
 #: src/amo/components/AuthenticateButton/index.js:92
-#: src/amo/components/Header/index.js:158
+#: src/amo/components/Header/index.js:159
 msgid "Log out"
 msgstr "Titz'apïx molojri'ïl"
 
@@ -680,7 +680,7 @@ msgid "Register or log in"
 msgstr "Titz'ib'äx B'i'aj o Titikirisäx Molojri'ïl"
 
 #: src/amo/components/AuthenticateButton/index.js:96
-#: src/amo/components/Header/index.js:153
+#: src/amo/components/Header/index.js:154
 msgid ""
 "This action is currently unavailable. Please reload the page in a moment."
 msgstr ""
@@ -1185,103 +1185,103 @@ msgstr "Tawetamaj qawäch"
 msgid "Blog"
 msgstr "Ichinya'l"
 
-#: src/amo/components/Footer/index.js:87 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:87 src/amo/components/Header/index.js:218
 #, fuzzy
 msgid "Extension Workshop"
 msgstr "Taq k'amal"
 
-#: src/amo/components/Footer/index.js:92 src/amo/components/Header/index.js:226
+#: src/amo/components/Footer/index.js:92 src/amo/components/Header/index.js:228
 msgid "Developer Hub"
 msgstr "B'anonela' Jay"
 
-#: src/amo/components/GetFirefoxBanner/index.js:73
+#: src/amo/components/GetFirefoxBanner/index.js:79
 msgid ""
 "To use these add-ons, you'll need to %(linkStart)sdownload Firefox%(linkEnd)s"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:151
+#: src/amo/components/GetFirefoxButton/index.js:158
 msgid "Only with Firefox—Get Firefox Now"
 msgstr "Xa xe rik'in Firefox—Tik'ul Firefox Wakami"
 
-#: src/amo/components/GetFirefoxButton/index.js:155
+#: src/amo/components/GetFirefoxButton/index.js:162
 #, fuzzy
 msgid "Download Firefox and get the theme"
 msgstr "Taqasaj Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:156
+#: src/amo/components/GetFirefoxButton/index.js:163
 msgid "Download Firefox and get the extension"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:159
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:166
+#: src/amo/components/GetFirefoxButton/index.js:178
 msgid "Download Firefox"
 msgstr "Taqasaj Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:162
+#: src/amo/components/GetFirefoxButton/index.js:169
 #, fuzzy
 msgid "You'll need Firefox to use this theme"
 msgstr "Titikirisäx molojri'ïl richin nitojtob'ëx re wachinïk re'"
 
-#: src/amo/components/GetFirefoxButton/index.js:163
+#: src/amo/components/GetFirefoxButton/index.js:170
 #, fuzzy
 msgid "You'll need Firefox to use this extension"
 msgstr "Titikirisäx molojri'ïl richin nitojtob'ëx re k'amal re'"
 
-#: src/amo/components/Header/index.js:107
+#: src/amo/components/Header/index.js:100
+#: src/amo/pages/UserProfileEdit/index.js:567
+#, fuzzy
+msgid "View My Profile"
+msgstr "Titz'et Ruwäch B'i'aj"
+
+#: src/amo/components/Header/index.js:108
 #: src/amo/pages/UserProfileEdit/index.js:573
 #, fuzzy
 msgid "Edit My Profile"
 msgstr "Tinuk' Ruwäch B'i'aj"
 
-#: src/amo/components/Header/index.js:111
+#: src/amo/components/Header/index.js:112
 msgid "Tools"
 msgstr "Taq samajib'äl"
 
-#: src/amo/components/Header/index.js:117
+#: src/amo/components/Header/index.js:118
 msgid "Submit a New Add-on"
 msgstr "Titaq jun K'ak'a' Tz'aqat"
 
-#: src/amo/components/Header/index.js:122
+#: src/amo/components/Header/index.js:123
 msgid "Submit a New Theme"
 msgstr "Titaq jun K'ak'a' Wachinïk"
 
-#: src/amo/components/Header/index.js:131
+#: src/amo/components/Header/index.js:132
 msgid "Manage My Submissions"
 msgstr "Kenuk'samajïx Taq Nutaqoj"
 
-#: src/amo/components/Header/index.js:141
+#: src/amo/components/Header/index.js:142
 msgid "Reviewer Tools"
 msgstr "Taq Rusamajib'al Nik'onel"
 
 # "Firefox" should not be translated. :-)
-#: src/amo/components/Header/index.js:194
+#: src/amo/components/Header/index.js:196
 #, fuzzy
 msgid "Firefox Browser Add-ons"
 msgstr "Taq Rutz'aqat Firefox"
 
-#: src/amo/components/Header/index.js:214
+#: src/amo/components/Header/index.js:216
 #, fuzzy
 msgid "Learn how to create extensions and themes"
 msgstr "Kenik'öx ri rokisaxik k'amal chuqa' ri kinuk'samajixik taq wachinel"
 
-#: src/amo/components/Header/index.js:224
+#: src/amo/components/Header/index.js:226
 #, fuzzy
 msgid "Submit and manage extensions and themes"
 msgstr "Kenik'öx ri rokisaxik k'amal chuqa' ri kinuk'samajixik taq wachinel"
 
-#: src/amo/components/Header/index.js:85
+#: src/amo/components/Header/index.js:86
 msgid "My Account"
 msgstr "Rub'i' Nutaqoya'l"
 
-#: src/amo/components/Header/index.js:91
+#: src/amo/components/Header/index.js:92
 msgid "View My Collections"
 msgstr "Ketz'et taq Numol"
-
-#: src/amo/components/Header/index.js:99
-#: src/amo/pages/UserProfileEdit/index.js:567
-#, fuzzy
-msgid "View My Profile"
-msgstr "Titz'et Ruwäch B'i'aj"
 
 #: src/amo/components/HeroRecommendation/index.js:180
 #, fuzzy
@@ -1310,7 +1310,7 @@ msgstr ""
 "Firefox xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' "
 "rub'eyal qasamaj"
 
-#: src/amo/components/HomepageShelves/index.js:69
+#: src/amo/components/HomepageShelves/index.js:70
 #, fuzzy
 msgid "See more %(categoryName)s"
 msgstr "Taq ruwäch"
@@ -1361,7 +1361,7 @@ msgstr ""
 msgid "OK"
 msgstr "ÜTZ!"
 
-#: src/amo/components/InstallButtonWrapper/index.js:114
+#: src/amo/components/InstallButtonWrapper/index.js:115
 #, fuzzy
 msgid "Download file"
 msgstr "Niqasäx %(name)s."

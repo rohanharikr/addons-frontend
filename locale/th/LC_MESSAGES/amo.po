@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-04-20 19:16+0000\n"
+"POT-Creation-Date: 2021-05-03 16:52+0000\n"
 "PO-Revision-Date: 2021-03-31 07:47+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -631,7 +631,7 @@ msgid "%(title)s – Add-ons for Firefox Android (%(locale)s)"
 msgstr "%(title)s – ส่วนเสริมสำหรับ Firefox Android (%(locale)s)"
 
 #: src/amo/components/AuthenticateButton/index.js:92
-#: src/amo/components/Header/index.js:158
+#: src/amo/components/Header/index.js:159
 msgid "Log out"
 msgstr "ออกจากระบบ"
 
@@ -641,7 +641,7 @@ msgid "Register or log in"
 msgstr "ลงทะเบียนหรือเข้าสู่ระบบ"
 
 #: src/amo/components/AuthenticateButton/index.js:96
-#: src/amo/components/Header/index.js:153
+#: src/amo/components/Header/index.js:154
 msgid ""
 "This action is currently unavailable. Please reload the page in a moment."
 msgstr "การกระทำนี้ไม่สามารถใช้ได้ในขณะนี้ โปรดโหลดหน้าใหม่ในอีกสักครู่"
@@ -1117,96 +1117,96 @@ msgstr "เกี่ยวกับ"
 msgid "Blog"
 msgstr "บล็อก"
 
-#: src/amo/components/Footer/index.js:87 src/amo/components/Header/index.js:216
+#: src/amo/components/Footer/index.js:87 src/amo/components/Header/index.js:218
 msgid "Extension Workshop"
 msgstr "Extension Workshop"
 
-#: src/amo/components/Footer/index.js:92 src/amo/components/Header/index.js:226
+#: src/amo/components/Footer/index.js:92 src/amo/components/Header/index.js:228
 msgid "Developer Hub"
 msgstr "ศูนย์กลางนักพัฒนา"
 
-#: src/amo/components/GetFirefoxBanner/index.js:73
+#: src/amo/components/GetFirefoxBanner/index.js:79
 msgid ""
 "To use these add-ons, you'll need to %(linkStart)sdownload Firefox%(linkEnd)s"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:151
+#: src/amo/components/GetFirefoxButton/index.js:158
 msgid "Only with Firefox—Get Firefox Now"
 msgstr "ใช้ได้กับ Firefox เท่านั้น—ดาวน์โหลด Firefox เลย"
 
-#: src/amo/components/GetFirefoxButton/index.js:155
+#: src/amo/components/GetFirefoxButton/index.js:162
 #, fuzzy
 msgid "Download Firefox and get the theme"
 msgstr "ดาวน์โหลด Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:156
+#: src/amo/components/GetFirefoxButton/index.js:163
 msgid "Download Firefox and get the extension"
 msgstr ""
 
-#: src/amo/components/GetFirefoxButton/index.js:159
-#: src/amo/components/GetFirefoxButton/index.js:172
+#: src/amo/components/GetFirefoxButton/index.js:166
+#: src/amo/components/GetFirefoxButton/index.js:178
 msgid "Download Firefox"
 msgstr "ดาวน์โหลด Firefox"
 
-#: src/amo/components/GetFirefoxButton/index.js:162
+#: src/amo/components/GetFirefoxButton/index.js:169
 #, fuzzy
 msgid "You'll need Firefox to use this theme"
 msgstr "เข้าสู่ระบบเพื่อให้คะแนนชุดตกแต่งนี้"
 
-#: src/amo/components/GetFirefoxButton/index.js:163
+#: src/amo/components/GetFirefoxButton/index.js:170
 #, fuzzy
 msgid "You'll need Firefox to use this extension"
 msgstr "เข้าสู่ระบบเพื่อให้คะแนนส่วนขยายนี้"
 
-#: src/amo/components/Header/index.js:107
+#: src/amo/components/Header/index.js:100
+#: src/amo/pages/UserProfileEdit/index.js:567
+msgid "View My Profile"
+msgstr "ดูโปรไฟล์ของฉัน"
+
+#: src/amo/components/Header/index.js:108
 #: src/amo/pages/UserProfileEdit/index.js:573
 msgid "Edit My Profile"
 msgstr "แก้ไขโปรไฟล์ของฉัน"
 
-#: src/amo/components/Header/index.js:111
+#: src/amo/components/Header/index.js:112
 msgid "Tools"
 msgstr "เครื่องมือ"
 
-#: src/amo/components/Header/index.js:117
+#: src/amo/components/Header/index.js:118
 msgid "Submit a New Add-on"
 msgstr "ส่งส่วนเสริมใหม่"
 
-#: src/amo/components/Header/index.js:122
+#: src/amo/components/Header/index.js:123
 msgid "Submit a New Theme"
 msgstr "ส่งชุดตกแต่งใหม่"
 
-#: src/amo/components/Header/index.js:131
+#: src/amo/components/Header/index.js:132
 msgid "Manage My Submissions"
 msgstr "จัดการการส่งของฉัน"
 
-#: src/amo/components/Header/index.js:141
+#: src/amo/components/Header/index.js:142
 msgid "Reviewer Tools"
 msgstr "เครื่องมือผู้วิจารณ์"
 
-#: src/amo/components/Header/index.js:194
+#: src/amo/components/Header/index.js:196
 msgid "Firefox Browser Add-ons"
 msgstr "ส่วนเสริมเบราว์เซอร์ Firefox"
 
-#: src/amo/components/Header/index.js:214
+#: src/amo/components/Header/index.js:216
 msgid "Learn how to create extensions and themes"
 msgstr "เรียนรู้วิธีสร้างส่วนขยายและชุดตกแต่ง"
 
-#: src/amo/components/Header/index.js:224
+#: src/amo/components/Header/index.js:226
 msgid "Submit and manage extensions and themes"
 msgstr "ส่งและจัดการส่วนขยายและชุดตกแต่ง"
 
-#: src/amo/components/Header/index.js:85
+#: src/amo/components/Header/index.js:86
 msgid "My Account"
 msgstr "บัญชีของฉัน"
 
-#: src/amo/components/Header/index.js:91
+#: src/amo/components/Header/index.js:92
 msgid "View My Collections"
 msgstr "ดูชุดสะสมของฉัน"
-
-#: src/amo/components/Header/index.js:99
-#: src/amo/pages/UserProfileEdit/index.js:567
-msgid "View My Profile"
-msgstr "ดูโปรไฟล์ของฉัน"
 
 #: src/amo/components/HeroRecommendation/index.js:180
 msgid "Get the extension"
@@ -1232,7 +1232,7 @@ msgid ""
 "performance."
 msgstr ""
 
-#: src/amo/components/HomepageShelves/index.js:69
+#: src/amo/components/HomepageShelves/index.js:70
 #, fuzzy
 msgid "See more %(categoryName)s"
 msgstr "%(categoryName)s"
@@ -1280,7 +1280,7 @@ msgstr "จัดการส่วนเสริมของคุณโดย
 msgid "OK"
 msgstr "ตกลง"
 
-#: src/amo/components/InstallButtonWrapper/index.js:114
+#: src/amo/components/InstallButtonWrapper/index.js:115
 #, fuzzy
 msgid "Download file"
 msgstr "กำลังดาวน์โหลด"
